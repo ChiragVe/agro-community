@@ -1,3 +1,4 @@
+@@ -1,61 +1 @@
 <h1 align="center">Welcome to Agro Community 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
@@ -10,25 +11,45 @@
 > A platform for farmer's interaction and to share knowledge about farming and agriculture.
 
 ## Prerequisites
-- mongo server
+- mongodb server
 - node 18.x
 
 ## Install
-
+- for frontend part
 ```sh
+cd client
 npm install
 ```
 
-## Usage
-
+- for backend part
 ```sh
-npm run start
+cd server
+npm install
+```
+## Usage
+-for frontend part, open separate terminal and then
+```sh
+cd client
+npm start
+```
+
+-for backend part, open separate terminal and then
+```sh
+cd server
+npm start
 ```
 
 ## Run tests
-
+-for frontend part, open separate terminals and then
 ```sh
-npm run test
+cd client
+npm test
+```
+
+-for backend part, open separate terminals and then
+```sh
+cd server
+npm test
 ```
 
 ## Author
@@ -39,3 +60,4 @@ npm run test
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+# agro-community
