@@ -1,26 +1,26 @@
 export const TrendData= [
     {
-      name: "Minions",
-      shares: 97,
+      name: "Farming",
+      growth: 97,
     },
     {
-      name: "Avangers",
-      shares: 80.5,
+      name: "Agriculture",
+      growth: 80.5,
     },
     {
-      name: "Zainkeepscode",
-      shares: 75.5,
+      name: "Kisan",
+      growth: 75.5,
     },
     {
-      name: "Reactjs",
-      shares: 72,
+      name: "Farmer",
+      growth: 72,
     },
     {
-      name: "Elon Musk",
-      shares: 71.9,
+      name: "Organic Farming",
+      growth: 71.9,
     },
     {
-      name: "Need for Speed",
-      shares: 20,
+      name: "Digitalisation of farming",
+      growth: 20,
     },
   ];
