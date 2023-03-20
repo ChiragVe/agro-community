@@ -52,7 +52,7 @@ const ProfileCard = ({location}) => {
             {location === 'profilePage' ?
                 '' :
                 <span>
-                    <Link style={{textDecoration: 'none', color: 'inherit'}} to={`/profile/${user._id}`}>
+                    <Link style={{textDecoration: 'none', color: 'green'}} to={`/profile/${user._id}`}>
 
                         My Profile
                     </Link>
